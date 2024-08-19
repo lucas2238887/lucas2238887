@@ -1,12 +1,11 @@
-- 👋 meu nome 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-lucas2238887/lucas2238887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Boas vindas ao meu perfil 🎱                                                                                                                                                      
+ Meu nome é lucas  🇧🇷                                                                                                                                                              
+                                                                                                                                                                                  
+ ### Estou estudando o alura🉑                                                                                                                                                         
+Estou me  desenvolvendo na linguagem javaScript🫀                                                                                                                               
+ utilizo  esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos                                                                                   
+                                                                                                                                                                                      
+ ### você  Pode entra em contato comigo 🍎                                                                                                                                                  
+                                                                                                                                                                                      
+ 0000112406087sp@al.educacao.sp.gov.br                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         
